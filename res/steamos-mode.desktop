@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SteamOS Mode
+Comment=Reboot to a SteamOS session
+Exec=sudo /usr/local/sbin/reboot-to-steamos-mode
+Terminal=false
+Icon=reboot-mode
+Type=Application

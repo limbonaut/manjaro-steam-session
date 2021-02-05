@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Desktop Mode
+Comment=Reboot to a desktop session
+Exec=sudo /usr/local/sbin/reboot-to-desktop-mode
+Terminal=false
+Icon=reboot-mode
+Type=Application
