@@ -82,6 +82,7 @@ pamac build --no-confirm steamos-compositor-plus
 set +e
 
 highlight "Installing 32-bit modeswitch inhibitor libraries..."
+pamac install --no-confirm lib32-libxrandr
 tar xvfJ ./lib/lib32_libmodeswitch_inhibitor.tar.xz --directory /usr/lib32/
 
 if [[ "${INCLUDE_STEAM_TWEAKS}" == "true" ]]; then
