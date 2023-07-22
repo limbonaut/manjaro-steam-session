@@ -1,6 +1,6 @@
-# SteamOS Manjaro for Atari VCS (and not only)
+# Manjaro Steam Session for Atari VCS (and not only)
 
-SteamOS Manjaro is a set of scripts to create a Manjaro-based Steam machine.
+Manjaro Steam Session is a set of scripts to create a Manjaro-based Steam machine.
 
 It will do the following:
 
@@ -23,7 +23,7 @@ Manjaro GNOME desktop.
 Some of these steps are optional, see [Advanced Options](#advanced-options).
 
 ## Requirements
-In order to install SteamOS Manjaro, you should have a fresh installation of Manjaro GNOME Desktop 
+In order to install Manjaro Steam Session, you should have a fresh installation of Manjaro GNOME Desktop 
 installed. For Atari VCS you need to disable Secure Boot in BIOS settings.
 Other versions of Manjaro may work, but GDM is required as display manager for session management.
 
